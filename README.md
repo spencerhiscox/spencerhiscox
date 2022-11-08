@@ -1,4 +1,7 @@
 ### Hi there 👋
+### Mechanical Engineering student at Carleton University in Canada
+### Complete n00b coder.. just learning over here.. 
+### Working on personal dev projects and (probably mostly) University group coding assignments.
 
 <!--
 **InochiFumetsu/InochiFumetsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
