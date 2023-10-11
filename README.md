@@ -1,5 +1,5 @@
 # SPENCER HISCOX
-![crest](University_of_Waterloo_seal.svg.png)### HONOURS MECHANICAL ENGINEERING STUDENT, UNIVERSITY OF WATERLOO
+![crest](University_of_Waterloo_seal.svg.png){width=150 height=150}### HONOURS MECHANICAL ENGINEERING STUDENT, UNIVERSITY OF WATERLOO
 ![]()[LinkedIn](https://www.linkedin.com/in/spencerhiscox/)
 
 #### LANGUAGES:
