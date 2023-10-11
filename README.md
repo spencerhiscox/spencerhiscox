@@ -12,7 +12,7 @@
 <table>
  <ul>
  <tr>
-  <td><h3>LANGUAGES</h3>&nbsp&nbsp&nbsp&nbsp&nbsp</td>
+  <td><h3>LANGUAGES</h3></td>
   <td><h3>SOFTWARE</h3></td></tr>
  <tr>
   <td><li>Python</li></td>
@@ -31,7 +31,7 @@
 
 <table>
  <tr>
-  <td><h4>PROJECTS</h4></td>
+  <td><h3>PROJECTS</h3></td>
  </tr>
  <tr>
   <td>
