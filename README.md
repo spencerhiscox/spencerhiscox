@@ -31,7 +31,7 @@
 
 <table>
  <tr>
-  <td><h3>PROJECTS</h3></td>
+  <td><a href="https://github.com/spencerhiscox?tab=repositories"><h3>PROJECTS</h3></a></td>
  </tr>
  <tr>
   <td>
