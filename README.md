@@ -1,6 +1,6 @@
 <table>
  <tr>
-  <td><h1><a href="https://www.linkedin.com/in/spencerhiscox/">SPENCER HISCOX &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a></h1></td>
+  <td><h1><a href="https://www.linkedin.com/in/spencerhiscox/">SPENCER HISCOX &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a></h1></td>
   <td><a href="https://www.linkedin.com/in/spencerhiscox/"><img src="linkedIn_logo3.jpg" style="float" height="30" width="30">https://www.linkedin.com/in/spencerhiscox</a></td>
  </tr>
 </table>
@@ -22,21 +22,19 @@
  </tr>
  <tr>
   <td>
-   <ul>
 <a href="https://github.com/spencerhiscox/TRUSS-ty-CALC/blob/master/TRUSS-ty-CALC_v1.3.4.py">Truss Geometry Optimization Utility (Python)</a>
     <ul>
-    TUI
-    Dependency Inversion Interface <br>
-    Recursive Algorithms <br>
-    Data Visualization / Manipulation <br>
-    Dynamic Multi-pass Optimization <br>
-    Classes / Methods <br>
-    State Variables <br>
-    Cross-Validation <br>
-    File I/O <br>
-    Arbitrary Argument Lists <br>
+    <li>TUI</li>
+    <li>Dependency Inversion Interface</li>
+    <li></li>Recursive Algorithms</li>
+    <li>Data Visualization / Manipulation</li>
+    <li>Dynamic Multi-pass Optimization</li>
+    <li>Classes / Methods</li>
+    <li>State Variables</li>
+    <li>Cross-Validation</li>
+    <li>File I/O</li>
+    <li>Arbitrary Argument Lists</li>
     </ul>
-   </ul>
   </td>
   <td>
    <a href="https://github.com/spencerhiscox/TRUSS-ty-CALC/blob/master/TRUSS-ty-CALC_v1.3.4.py"><img src="SSA_deflection_ACT2.png"></a>
