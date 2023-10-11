@@ -26,7 +26,7 @@
     <ul>
     <li>TUI</li>
     <li>Dependency Inversion Interface</li>
-    <li></li>Recursive Algorithms</li>
+    <li>Recursive Algorithms</li>
     <li>Data Visualization / Manipulation</li>
     <li>Dynamic Multi-pass Optimization</li>
     <li>Classes / Methods</li>
