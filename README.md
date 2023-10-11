@@ -41,6 +41,7 @@
   <td>
    Written: 03/2023
    <a href="https://github.com/spencerhiscox/TRUSS-ty-CALC/blob/master/TRUSS-ty-CALC_v1.3.4.py"><img src="SSA_deflection_ACT2.png"></a>
+   <a href="https://github.com/spencerhiscox/TRUSS-ty-CALC/blob/master/TRUSS-ty-CALC_v1.3.4.py"><img src="WarrenØ_Amalgam.png"></a>
   </td>
  </tr>
  <tr>
