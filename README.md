@@ -16,8 +16,12 @@
 | C        | LabView |
 | MATLAB   | MATLAB |
 
-
-#### PROJECTS:
+<table>
+ <tr>
+  <td>PROJECTS</td>
+ </tr>
+ <tr>
+  <td>
 - [Truss Geometry Optimization Utility (Python)](https://github.com/spencerhiscox/TRUSS-ty-CALC/blob/master/TRUSS-ty-CALC_v1.3.4.py)
     - TUI
     - Dependency Inversion Interface
@@ -29,11 +33,52 @@
     - Cross-Validation
     - File I/O
     - Arbitrary Argument Lists
+  </td>
+  <td>
+   <a href="https://github.com/spencerhiscox/TRUSS-ty-CALC/blob/master/TRUSS-ty-CALC_v1.3.4.py"><img src="SSA_deflection_ACT2.png"></a>
+  </td>
+ </tr>
+ <tr>
+  <td>
 - [Task Organizer <Python, current WIP>](https://github.com/spencerhiscox/dates_viewer)
+  </td>
+  <td>
+  
+  </td>
+ </tr>
+ <tr>
+  <td>
 - [CA-VI: Sorting Algorithms (C++, W2022)](https://github.com/spencerhiscox/LinkedList-InsertionSort-BIT2400)
+  </td>
+  <td>
+   
+  </td>
+ </tr>
+ <tr>
+  <td>
 - [CA-V: Class Templates (C++, W2022)](https://github.com/spencerhiscox/ClassTemplates-BIT2400)
+  </td>
+  <td>
+   
+  </td>
+ </tr>
+ <tr>
+  <td>
 - [CA-VII: Data Visualization (C, F2021)](https://github.com/spencerhiscox/C_data_vis_y1_assignment_7)
+  </td>
+  <td>
+   
+  </td>
+ </tr>
+ <tr>
+  <td>
 - [CA-VIII: Chance Game / ASCII Art (C, F2021)](https://github.com/spencerhiscox/C_game_y1_assignment_8)
+  </td>
+  <td>
+   
+  </td>
+ </tr>
+ </table>
 
 <!--
 **InochiFumetsu/InochiFumetsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
