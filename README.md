@@ -12,6 +12,9 @@
 
 #### PROJECTS:
 - [Truss Geometry Optimization Utility (Python)](https://github.com/spencerhiscox/TRUSS-ty-CALC)
+      <img src="" style="float" height="50" width="50" align="left"> - TUI Software Utility
+      - Dependency Inversion Interface
+      - 
 - [Task Organizer <Python, current WIP>](https://github.com/spencerhiscox/dates_viewer)
 - [CA-VI: Sorting Algorithms (C++, W2022)](https://github.com/spencerhiscox/LinkedList-InsertionSort-BIT2400)
 - [CA-V: Class Templates (C++, W2022)](https://github.com/spencerhiscox/ClassTemplates-BIT2400)
