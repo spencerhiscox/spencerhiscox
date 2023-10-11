@@ -1,3 +1,29 @@
+<style>
+    a:link {
+        color: white;
+        background-color: transparent;
+        text-decoration: none;
+    }
+
+    a:visited {
+        color: white;
+        background-color: transparent;
+        text-decoration: none;
+    }
+
+    a:hover {
+        color: white;
+        background-color: transparent;
+        text-decoration: underline;
+    }
+
+    a:active {
+        color: white;
+        background-colour: transparent;
+        text-decoration: none;
+    }
+</style>
+
 <table>
 <tr align="right">
     <td align="left"><h1><a href="https://www.linkedin.com/in/spencerhiscox/">SPENCER HISCOX</a></h1></td>
