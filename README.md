@@ -9,12 +9,25 @@
 <!--![crest](University_of_Waterloo_seal.svg.png){width=150 height=150}-->
 <a href="https://uwaterloo.ca/engineering/"><img style="float" src="University_of_Waterloo_seal.svg.png" height="50" width="50" align="left"></a><h3>HONOURS MECHANICAL ENGINEERING, UNIVERSITY OF WATERLOO</h3><br />
 
-| <h3>LANGUAGES&nbsp&nbsp&nbsp&nbsp&nbsp</h3> | <h3>SOFTWARE</h3> |
-| :---      | :---     |
-| Python   | Visual Studio 2019 |
-| C++      | Wing101 |
-| C        | LabView |
-| MATLAB   | MATLAB |
+<table>
+ <ul>
+ <tr>
+  <td><h4><li>LANGUAGES</li></h4>&nbsp&nbsp&nbsp&nbsp&nbsp</td>
+  <td><h4><li>SOFTWARE</li></h4></td></tr>
+ <tr>
+  <td><li>Python</li></td>
+  <td><li>Visual Studio 2019</li></td></tr>
+ <tr>
+  <td><li>C++</li></td>
+  <td><li>Wing101</li></td></tr>
+ <tr>
+  <td><li>C</li></td>
+  <td><li>LabView</li></td></tr>
+ <tr>
+  <td><li>MATLAB</li></td>
+  <td><li>MATLAB</li></td></tr>
+ </ul>
+</table>
 
 <table>
  <tr>
