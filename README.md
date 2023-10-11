@@ -1,4 +1,4 @@
-<h1><a href="https://www.linkedin.com/in/spencerhiscox/">SPENCER HISCOX <img src="linkedIn_logo3.jpg" style="float" height="40" width="40"></a></h1>
+<h1><a href="https://www.linkedin.com/in/spencerhiscox/">SPENCER HISCOX <img src="linkedIn_logo3.jpg" style="float" height="30" width="30"></a></h1>
 <!--![crest](University_of_Waterloo_seal.svg.png){width=150 height=150}-->
 <a href="https://uwaterloo.ca/engineering/"><img style="float" src="University_of_Waterloo_seal.svg.png" height="50" width="50" align="left"></a><h3>HONOURS MECHANICAL ENGINEERING STUDENT, UNIVERSITY OF WATERLOO</h3><br />
 
