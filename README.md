@@ -12,8 +12,8 @@
 <table>
  <ul>
  <tr>
-  <td><h4><li>LANGUAGES</li></h4>&nbsp&nbsp&nbsp&nbsp&nbsp</td>
-  <td><h4><li>SOFTWARE</li></h4></td></tr>
+  <td><h3>LANGUAGES</h3>&nbsp&nbsp&nbsp&nbsp&nbsp</td>
+  <td><h3>SOFTWARE</h3></td></tr>
  <tr>
   <td><li>Python</li></td>
   <td><li>Visual Studio 2019</li></td></tr>
