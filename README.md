@@ -2,10 +2,17 @@
 <!--![crest](University_of_Waterloo_seal.svg.png){width=150 height=150}-->
 <a href="https://uwaterloo.ca/engineering/"><img style="float" src="University_of_Waterloo_seal.svg.png" height="50" width="50" align="left"></a><h3>HONOURS MECHANICAL ENGINEERING STUDENT, UNIVERSITY OF WATERLOO</h3><br />
 
-
-
 #### LANGUAGES:
+- Python
+- C++
+- C
+- MATLAB
 
+#### SOFTWARE:
+- Visual Studio 2019
+- Wing 101
+- LabView
+- MATLAB
 
 #### PROJECTS:
 [Truss Geometry Optimization Utility (Python)](https://github.com/spencerhiscox/TRUSS-ty-CALC)
