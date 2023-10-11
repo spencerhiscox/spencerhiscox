@@ -22,17 +22,21 @@
  </tr>
  <tr>
   <td>
-- [Truss Geometry Optimization Utility (Python)](https://github.com/spencerhiscox/TRUSS-ty-CALC/blob/master/TRUSS-ty-CALC_v1.3.4.py)
-    - TUI
-    - Dependency Inversion Interface
-    - Recursive Algorithms
-    - Data Visualization / Manipulation
-    - Dynamic Multi-pass Optimization
-    - Classes / Methods
-    - State Variables
-    - Cross-Validation
-    - File I/O
-    - Arbitrary Argument Lists
+   <ul>
+[Truss Geometry Optimization Utility (Python)](https://github.com/spencerhiscox/TRUSS-ty-CALC/blob/master/TRUSS-ty-CALC_v1.3.4.py)
+    <ul>
+    TUI
+    Dependency Inversion Interface
+    Recursive Algorithms
+    Data Visualization / Manipulation
+    Dynamic Multi-pass Optimization
+    Classes / Methods
+    State Variables
+    Cross-Validation
+    File I/O
+    Arbitrary Argument Lists
+    </ul>
+   </ul>
   </td>
   <td>
    <a href="https://github.com/spencerhiscox/TRUSS-ty-CALC/blob/master/TRUSS-ty-CALC_v1.3.4.py"><img src="SSA_deflection_ACT2.png"></a>
