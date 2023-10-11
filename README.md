@@ -1,13 +1,13 @@
 <table>
  <tr>
-  <td><h1><a href="https://www.linkedin.com/in/spencerhiscox/">SPENCER HISCOX &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a></h1></td>
+  <td><h1><a href="https://www.linkedin.com/in/spencerhiscox/">SPENCER HISCOX &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a></h1></td>
   <td><a href="https://www.linkedin.com/in/spencerhiscox/"><img src="linkedIn_logo3.jpg" style="float" height="30" width="30">https://www.linkedin.com/in/spencerhiscox</a></td>
  </tr>
 </table>
  
 
 <!--![crest](University_of_Waterloo_seal.svg.png){width=150 height=150}-->
-<a href="https://uwaterloo.ca/engineering/"><img style="float" src="University_of_Waterloo_seal.svg.png" height="50" width="50" align="left"></a><h3>HONOURS MECHANICAL ENGINEERING STUDENT, UNIVERSITY OF WATERLOO</h3><br />
+<a href="https://uwaterloo.ca/engineering/"><img style="float" src="University_of_Waterloo_seal.svg.png" height="50" width="50" align="left"></a><h3>HONOURS MECHANICAL ENGINEERING, UNIVERSITY OF WATERLOO</h3><br />
 
 | LANGUAGES | SOFTWARE |
 | :---      | :---     |
