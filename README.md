@@ -26,15 +26,15 @@
 <a href="https://github.com/spencerhiscox/TRUSS-ty-CALC/blob/master/TRUSS-ty-CALC_v1.3.4.py">Truss Geometry Optimization Utility (Python)</a>
     <ul>
     TUI
-    Dependency Inversion Interface
-    Recursive Algorithms
-    Data Visualization / Manipulation
-    Dynamic Multi-pass Optimization
-    Classes / Methods
-    State Variables
-    Cross-Validation
-    File I/O
-    Arbitrary Argument Lists
+    Dependency Inversion Interface <br>
+    Recursive Algorithms <br>
+    Data Visualization / Manipulation <br>
+    Dynamic Multi-pass Optimization <br>
+    Classes / Methods <br>
+    State Variables <br>
+    Cross-Validation <br>
+    File I/O <br>
+    Arbitrary Argument Lists <br>
     </ul>
    </ul>
   </td>
