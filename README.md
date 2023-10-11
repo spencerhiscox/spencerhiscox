@@ -12,6 +12,16 @@
 
 #### PROJECTS:
 - [Truss Geometry Optimization Utility (Python)](https://github.com/spencerhiscox/TRUSS-ty-CALC)
+    - TUI
+    - Dependency Inversion Interface
+    - Recursive Algorithms
+    - Data Visualization / Manipulation
+    - Dynamic Multi-pass Optimization
+    - Classes / Methods
+    - State Variables
+    - Cross-Validation
+    - File I/O
+    - Arbitrary Argument Lists
 - [Task Organizer <Python, current WIP>](https://github.com/spencerhiscox/dates_viewer)
 - [CA-VI: Sorting Algorithms (C++, W2022)](https://github.com/spencerhiscox/LinkedList-InsertionSort-BIT2400)
 - [CA-V: Class Templates (C++, W2022)](https://github.com/spencerhiscox/ClassTemplates-BIT2400)
