@@ -23,7 +23,7 @@
  <tr>
   <td>
 <a href="https://github.com/spencerhiscox/TRUSS-ty-CALC/blob/master/TRUSS-ty-CALC_v1.3.4.py">Truss Geometry Optimization Utility (Python)</a><br>
-    *Iteratively solves internal forces of each truss member for four truss types across a range of angles at coarse (δ = 1 degree) resolution, assigning HSS sections to minimize cost (material usage). Calculates each truss' total weight and recursively passes over identified low-point of distribution, increasing resolution by an order of magnitude on each pass. Visualizes optimization passes graphically for review, identifies and stores the optimal geometry for each truss type and returns the optimal truss type and geometry. Coded for function call tracing diagnostics and cross-validation.* 
+    *Iteratively solves internal forces of each truss member for four truss types across a range of angles at coarse (δ = 1 degree) resolution, assigning HSS geometries to minimize cost (material usage). Calculates each truss' total weight and recursively passes over identified low-point of distribution, increasing resolution by an order of magnitude on each pass. Visualizes optimization passes graphically for review, identifies and stores the optimal geometry for each truss type and returns the optimal truss type and geometry. Coded for function call tracing diagnostics and cross-validation.* 
     <ul>
     <li>TUI</li>
     <li>Dependency Inversion Interface</li>
