@@ -1,5 +1,9 @@
-| <h1><a href="https://www.linkedin.com/in/spencerhiscox/">SPENCER HISCOX</a></h1> | <a href="https://www.linkedin.com/in/spencerhiscox/"><img src="linkedIn_logo3.jpg" style="float" height="30" width="30">https://www.linkedin.com/in/spencerhiscox</a> |
-|:--|--:|
+<table>
+ <tr>
+  <td><h1><a href="https://www.linkedin.com/in/spencerhiscox/">SPENCER HISCOX</a></h1></td>
+  <td><a href="https://www.linkedin.com/in/spencerhiscox/"><img src="linkedIn_logo3.jpg" style="float" height="30" width="30">https://www.linkedin.com/in/spencerhiscox</a></td>
+ </tr>
+</table>
  
 
 <!--![crest](University_of_Waterloo_seal.svg.png){width=150 height=150}-->
