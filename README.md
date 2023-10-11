@@ -11,7 +11,7 @@
 
 
 #### PROJECTS:
-- [Truss Geometry Optimization Utility (Python)](https://github.com/spencerhiscox/TRUSS-ty-CALC)
+- [Truss Geometry Optimization Utility (Python)](https://github.com/spencerhiscox/TRUSS-ty-CALC/blob/master/TRUSS-ty-CALC_v1.3.4.py)
     - TUI
     - Dependency Inversion Interface
     - Recursive Algorithms
