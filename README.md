@@ -1,7 +1,7 @@
 <table>
 <tr>
-    <td><h1><a href="https://www.linkedin.com/in/spencerhiscox/">SPENCER HISCOX</a></h1></td>
-    <td align="right" style="padding: 0px 300px 0px 0px"><a href="https://www.linkedin.com/in/spencerhiscox/"><img src="linkedIn_logo3.jpg" style="float" height="30" width="30">https://www.linkedin.com/in/spencerhiscox</a></td>
+    <td style="padding: 0px 300px 0px 0px"><h1><a href="https://www.linkedin.com/in/spencerhiscox/">SPENCER HISCOX</a></h1></td>
+    <td align="right"><a href="https://www.linkedin.com/in/spencerhiscox/"><img src="linkedIn_logo3.jpg" style="float" height="30" width="30">https://www.linkedin.com/in/spencerhiscox</a></td>
 </tr>    
 </table>
  
