@@ -1,6 +1,6 @@
 # SPENCER HISCOX
 ### HONOURS MECHANICAL ENGINEERING STUDENT, UNIVERSITY OF WATERLOO
-#### [LinkedIn](https://www.linkedin.com/in/spencerhiscox/)
+**[LinkedIn](https://www.linkedin.com/in/spencerhiscox/)**
 
 #### LANGUAGES:
 
