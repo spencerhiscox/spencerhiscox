@@ -1,6 +1,6 @@
-# SPENCER HISCOX
+<h1>SPENCER HISCOX</h1>
 <!--![crest](University_of_Waterloo_seal.svg.png){width=150 height=150}-->
-<a href="https://uwaterloo.ca"><img style="float" src="University_of_Waterloo_seal.svg.png" height="50" width="50" align="left"></a><h3>HONOURS MECHANICAL ENGINEERING STUDENT, UNIVERSITY OF WATERLOO</h3><br />
+<a href="https://uwaterloo.ca/engineering/"><img style="float" src="University_of_Waterloo_seal.svg.png" height="50" width="50" align="left"></a><h3>HONOURS MECHANICAL ENGINEERING STUDENT, UNIVERSITY OF WATERLOO</h3><br />
 ![]()[LinkedIn](https://www.linkedin.com/in/spencerhiscox/)
 
 #### LANGUAGES:
