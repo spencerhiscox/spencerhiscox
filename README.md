@@ -33,11 +33,13 @@
     <li>Classes / Methods</li>
     <li>State Variables</li>
     <li>Cross-Validation</li>
+    <li>Function Call Tracing</li>
     <li>File I/O</li>
     <li>Arbitrary Argument Lists</li>
     </ul>
   </td>
   <td>
+   Written: 03/2023
    <a href="https://github.com/spencerhiscox/TRUSS-ty-CALC/blob/master/TRUSS-ty-CALC_v1.3.4.py"><img src="SSA_deflection_ACT2.png"></a>
   </td>
  </tr>
