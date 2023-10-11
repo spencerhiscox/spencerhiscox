@@ -1,6 +1,6 @@
 <table>
  <tr>
-  <td><h1><a href="https://www.linkedin.com/in/spencerhiscox/">SPENCER HISCOX &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a></h1></td>
+  <td><h1><a href="https://www.linkedin.com/in/spencerhiscox/">SPENCER HISCOX &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a></h1></td>
   <td><a href="https://www.linkedin.com/in/spencerhiscox/"><img src="linkedIn_logo3.jpg" style="float" height="30" width="30">https://www.linkedin.com/in/spencerhiscox</a></td>
  </tr>
 </table>
@@ -18,11 +18,12 @@
 
 <table>
  <tr>
-  <td>PROJECTS</td>
+  <td><h4>PROJECTS</h4></td>
  </tr>
  <tr>
   <td>
-<a href="https://github.com/spencerhiscox/TRUSS-ty-CALC/blob/master/TRUSS-ty-CALC_v1.3.4.py">Truss Geometry Optimization Utility (Python)</a>
+<a href="https://github.com/spencerhiscox/TRUSS-ty-CALC/blob/master/TRUSS-ty-CALC_v1.3.4.py">Truss Geometry Optimization Utility (Python)</a><br>
+    *Iteratively solves internal forces of each truss member for four truss types across a range of angles at coarse (δ = 1 degree) resolution, assigning HSS sections to minimize cost (material usage). Calculates each truss' total weight and recursively passes over identified low-point of distribution, increasing resolution by an order of magnitude on each pass. Visualizes optimization passes graphically for review, identifies and stores the optimal geometry for each truss type and returns the optimal truss type and geometry. Coded for function call tracing diagnostics and cross-validation.* 
     <ul>
     <li>TUI</li>
     <li>Dependency Inversion Interface</li>
