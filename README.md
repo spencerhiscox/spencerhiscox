@@ -1,27 +1,27 @@
 <table>
  <tr>
-  <td><a href="https://www.linkedin.com/in/spencerhiscox/"><p style="color: white; font-size: 24px; text-decoration: none; font-weight: bold;">SPENCER HISCOX </a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</p></td>
+  <td><a href="https://www.linkedin.com/in/spencerhiscox/"><h1>SPENCER HISCOX </a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</h1></td>
   <td><a href="https://www.linkedin.com/in/spencerhiscox/"><img src="linkedIn_logo3.jpg" style="float" height="30" width="30">https://www.linkedin.com/in/spencerhiscox</a></td>
  </tr>
 </table>
  
 
 <!--![crest](University_of_Waterloo_seal.svg.png){width=150 height=150}-->
-<a href="https://uwaterloo.ca/engineering/"><img style="float" src="University_of_Waterloo_seal.svg.png" height="50" width="50" align="left"></a><p style="color: white; font-size: 20px; text-decoration: none; font-weight: bold;">HONOURS MECHANICAL ENGINEERING, UNIVERSITY OF WATERLOO</p><br />
+<a href="https://uwaterloo.ca/engineering/"><img style="float" src="University_of_Waterloo_seal.svg.png" height="50" width="50" align="left"></a><h3>HONOURS MECHANICAL ENGINEERING, UNIVERSITY OF WATERLOO</h3><br />
 
-<p style="color: white; font-size: 20px; text-decoration: none; font-weight: bold;">ABOUT</p>
+<h3>ABOUT</h3>
 I was Born to be an Engineer.<br /><br />
 
 I've always had an insatiable curiosity and a relentless desire to understand the intricacies of how things work and why. I love problem-solving and I'm obsessed (obsessively) with optimization. Whether it's coding, mechanical design, hardware, or pure sciences, I'm constantly seeking new challenges and opportunities to learn and grow. <a href="https://www.linkedin.com/in/spencerhiscox/#about" target="_blank">...Read More...</a>
 <br /><br /><br />
 
-<p style="color: white; font-size: 20px; text-decoration: none; font-weight: bold;">CS SPECIFIC SKILLS / EXPERIENCE</p>
+<h3>CS SPECIFIC SKILLS / EXPERIENCE</h3>
 
 <table>
  <ul>
  <tr>
-  <td><p style="color: white; font-size: 20px; text-decoration: none; font-weight: bold;">LANGUAGES</p></td>
-  <td><p style="color: white; font-size: 20px; text-decoration: none; font-weight: bold;">SOFTWARE</p></td></tr>
+  <td><h3>LANGUAGES</h3></td>
+  <td><h3>SOFTWARE</h3></td></tr>
  <tr>
   <td><li>Python</li></td>
   <td><li>Visual Studio 2019</li></td></tr>
@@ -39,7 +39,7 @@ I've always had an insatiable curiosity and a relentless desire to understand th
 
 <table>
  <tr>
-  <td><a href="https://github.com/spencerhiscox?tab=repositories"><p style="color: white; font-size: 20px; text-decoration: none; font-weight: bold;">PROJECTS</p></a></td>
+  <td><a href="https://github.com/spencerhiscox?tab=repositories"><h3>PROJECTS</h3></a></td>
  </tr>
  <tr>
   <td>
