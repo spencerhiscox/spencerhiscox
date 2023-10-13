@@ -13,7 +13,7 @@
 I was Born to be an Engineer.
 
 I've always had an insatiable curiosity and a relentless desire to understand the intricacies of how things work and why. I love problem-solving and I'm obsessed (obsessively) with optimization. Whether it's coding, mechanical design, hardware, or pure sciences, I'm constantly seeking new challenges and opportunities to learn and grow. [...Read More...](https://www.linkedin.com/in/spencerhiscox/#about)
-<br><br><br>
+<br /><br /><br />
 
 <table>
  <ul>
