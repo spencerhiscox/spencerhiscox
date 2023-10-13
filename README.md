@@ -10,7 +10,7 @@
 <a href="https://uwaterloo.ca/engineering/"><img style="float" src="University_of_Waterloo_seal.svg.png" height="50" width="50" align="left"></a><h3>HONOURS MECHANICAL ENGINEERING, UNIVERSITY OF WATERLOO</h3><br />
 
 <h3>ABOUT</h3>
-I was Born to be an Engineer.<br />
+I was Born to be an Engineer.<br /><br />
 
 I've always had an insatiable curiosity and a relentless desire to understand the intricacies of how things work and why. I love problem-solving and I'm obsessed (obsessively) with optimization. Whether it's coding, mechanical design, hardware, or pure sciences, I'm constantly seeking new challenges and opportunities to learn and grow. [...Read More...](https://www.linkedin.com/in/spencerhiscox/#about)
 <br /><br /><br />
