@@ -1,3 +1,5 @@
+md.linkify.set({ fuzzylink: false });
+
 <table>
  <tr>
   <td><a href="https://www.linkedin.com/in/spencerhiscox/" text-color="white"><h1>SPENCER HISCOX</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</h1></td>
