@@ -67,15 +67,21 @@ I've always had an insatiable curiosity and a relentless desire to understand th
  </tr>
  <tr>
   <td>
-- [Task Organizer <Python, current WIP>](https://github.com/spencerhiscox/dates_viewer)
-  </td>
-  <td>
-  
-  </td>
- </tr>
- <tr>
-  <td>
-- [CA-VI: Sorting Algorithms (C++, W2022)](https://github.com/spencerhiscox/LinkedList-InsertionSort-BIT2400)
+   <a href="https://carleton.ca/engineering-design/"><img src="CarletonUniversity_logo.png" height="23" width="23"></a><a href="https://github.com/spencerhiscox/LinkedList-InsertionSort-BIT2400">  <b>CA-VI: Sorting Algorithms (C++, W2022)</b></a><br />
+    <i>Ipsum Lorem</i> 
+    <ul>
+    <li>TUI</li>
+    <li>Dependency Inversion Interface</li>
+    <li>Recursive Algorithms</li>
+    <li>Data Visualization / Manipulation</li>
+    <li>Dynamic Multi-pass Optimization</li>
+    <li>Classes / Methods</li>
+    <li>State Variables</li>
+    <li>Cross-Validation</li>
+    <li>Function Call Tracing</li>
+    <li>File I/O</li>
+    <li>Arbitrary Argument Lists</li>
+    </ul>
   </td>
   <td>
    
@@ -103,6 +109,14 @@ I've always had an insatiable curiosity and a relentless desire to understand th
   </td>
   <td>
    
+  </td>
+ </tr>
+ <tr>
+  <td>
+- [Task Organizer <Python, current WIP>](https://github.com/spencerhiscox/dates_viewer)
+  </td>
+  <td>
+  
   </td>
  </tr>
  </table>
