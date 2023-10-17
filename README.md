@@ -1,4 +1,4 @@
-md.linkify.set({ fuzzylink: false });
+{::options auto_ids="false" /}
 
 <table>
  <tr>
