@@ -77,6 +77,7 @@ I've always had an insatiable curiosity and a relentless desire to understand th
     </ul>
   </td>
   <td>
+   Written: 04/2022
    <a href="https://github.com/spencerhiscox/LinkedList-InsertionSort-BIT2400/blob/master/List.cpp"><img src="A6B24_InsSrt.png"></a>
   </td>
  </tr>
