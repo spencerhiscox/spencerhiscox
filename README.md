@@ -68,7 +68,7 @@ I've always had an insatiable curiosity and a relentless desire to understand th
  <tr>
   <td>
    <a href="https://carleton.ca/engineering-design/"><img src="CarletonUniversity_logo.png" height="23" width="23"></a><a href="https://github.com/spencerhiscox/LinkedList-InsertionSort-BIT2400">  <b>CA-VI: Sorting Algorithms (C++, W2022)</b></a><br />
-    <i>Ipsum Lorem</i> 
+    <i>Implementation of linked list data structure with limited searchability / sortability. "List" and "Node" classes were created to house the overall database and individual entries, respectively, with any built-in functionality of the data structure implemented as methods of the List class. An alphabetical sort algorithm was nested inside an insertion sort algorithm, both written from scratch. Common functions such as popback(), peekfront() etc. were also defined under the List class.</i> 
     <ul>
     <li>TUI</li>
     <li>Dependency Inversion Interface</li>
