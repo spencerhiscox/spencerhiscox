@@ -84,19 +84,12 @@ I've always had an insatiable curiosity and a relentless desire to understand th
  <tr>
   <td>
    <a href="https://carleton.ca/engineering-design/"><img src="CarletonUniversity_logo.png" height="23" width="23"></a><a href="https://github.com/spencerhiscox/ClassTemplates-BIT2400/blob/master/Set.h">  <b>CA-V: Class Templates & Vectors (C++)</b></a><br />
-    <i>Ipsum Lorem.</i> 
+    <i>Class templates and method variants defined in header file to enable storage of any data type as a 'set' (array) of that data using vector methods.</i> 
     <ul>
-    <li>TUI</li>
-    <li>Dependency Inversion Interface</li>
-    <li>Recursive Algorithms</li>
-    <li>Data Visualization / Manipulation</li>
-    <li>Dynamic Multi-pass Optimization</li>
-    <li>Classes / Methods</li>
-    <li>State Variables</li>
-    <li>Cross-Validation</li>
-    <li>Function Call Tracing</li>
-    <li>File I/O</li>
-    <li>Arbitrary Argument Lists</li>
+    <li>Class Templates</li>
+    <li>Vectors</li>
+    <li>Dynamic Allocation</li>
+    <li>Arrays</li>
     </ul>
   </td>
   <td>
