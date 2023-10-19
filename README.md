@@ -134,14 +134,15 @@ I've always had an insatiable curiosity and a relentless desire to understand th
  </tr>
  <tr>
   <td>
-- [Task Organizer <Python, current WIP>](https://github.com/spencerhiscox/dates_viewer)
-  <a href="https://carleton.ca/engineering-design/"><img src="University_of_Waterloo_seal.svg.png" height="23" width="23"></a><a href="https://github.com/spencerhiscox/dates_viewer/blob/master/dates_viewer.py">  <b> Task Organizer [WIP] (Python)</b></a><br />
-    <i>Simple program which simulates rolling a pair of die a user-specified amount of times and tracks the amount each roll total comes up. These roll totals are then compiled into a histogram and displayed via ASCII art output in console. <b>ASIDE:</b> The solution makes use of a recursive algorithm I wrote which purges buffer overflow resultant from user-entered text into a numeric format specifier using scanf(). This was outside the scope of the assignment.</i> 
+  <a href="https://github.com/spencerhiscox/dates_viewer/blob/master/dates_viewer.py">  <b> Task Organizer [WIP] (Python)</b></a><br />
+    <i>I had the idea to write a bit of code that will take information from an excel or csv file (tasks) and sort them by whether they're ancillary or university education related, then whether they're assignments, or required readings or upcoming exams etc. The data should then be displayed either in absolute order of nearest deadlines or, sorted by type of task first, then sorted according to nearest deadline under each sub-type, per user preference. At some point I may add webscraping to enable the software to search my university's website and auto-update task and due-date information. This project is not complete: it is a work in progress.</i> 
     <ul>
-    <li>Recursion</li>
-    <li>Structures</li>
-    <li>Functions</li>
-    <li>ASCII art // Data Visualization</li>
+    <li>File I/O</li>
+    <li>Classes / Methods</li>
+    <li>Nested Dictionaries Data Structure</li>
+    <li>Arbitrary Argument Lists</li>
+    <li>State Variables</li>
+    <li>TUI</li>
     </ul>
   </td>
   <td>
