@@ -110,7 +110,7 @@ I've always had an insatiable curiosity and a relentless desire to understand th
   </td>
   <td>
    Written: 11/2021<br />
-   <a href="https://github.com/spencerhiscox/C_data_vis_y1_assignment_7/blob/master/user_input_and_checks.c"><img src="A7B14_fIOdataVIS.png"></a>
+   <a href="https://github.com/spencerhiscox/C_data_vis_y1_assignment_7/blob/master/user_input_and_checks.c"><img src="A7B14_fIOdataVIS.png" height="340" width="340"></a>
   </td>
  </tr>
  <tr>
