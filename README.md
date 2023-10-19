@@ -112,8 +112,8 @@ I've always had an insatiable curiosity and a relentless desire to understand th
     </ul>
   </td>
   <td>
-   Written: 12/2021
-   <a href="https://github.com/spencerhiscox/C_game_y1_assignment_8/blob/master/implementations.c"><img src="A8B14_DcGm.png" height="280" width="280"></a>
+   Written: 12/2021<br />
+   <a href="https://github.com/spencerhiscox/C_game_y1_assignment_8/blob/master/implementations.c"><img src="A8B14_DcGm.png" height="250" width="250"></a>
   </td>
  </tr>
  <tr>
