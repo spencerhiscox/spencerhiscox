@@ -147,7 +147,7 @@ I've always had an insatiable curiosity and a relentless desire to understand th
   </td>
   <td>
    Written: 11/2021<br />
-   <a href="https://github.com/spencerhiscox/dates_viewer/blob/master/dates_viewer.py"><img src="dates_viewer_simple_PP-WIP.png"></a>
+   <a href="https://github.com/spencerhiscox/dates_viewer/blob/master/dates_viewer.py"><img src="dates_viewer_simple_PP-WIP.png" height="560" width="280"></a>
   </td>
  </tr>
  </table>
