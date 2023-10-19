@@ -94,7 +94,7 @@ I've always had an insatiable curiosity and a relentless desire to understand th
   </td>
   <td>
    Written: 03/2022
-   <a href="https://github.com/spencerhiscox/ClassTemplates-BIT2400/blob/master/Set.h"><img src="A5B24_ClsTmp.png"></a>
+   <a href="https://github.com/spencerhiscox/ClassTemplates-BIT2400/blob/master/Set.h"><img src="A5B24_ClsTmp.png" height="120" width="180"></a>
   </td>
  </tr>
  <tr>
