@@ -61,8 +61,8 @@ I've always had an insatiable curiosity and a relentless desire to understand th
   </td>
   <td>
    Written: 03/2023
-   <a href="https://github.com/spencerhiscox/TRUSS-ty-CALC/blob/master/TRUSS-ty-CALC_v1.3.4.py"><img src="SSA_deflection_ACT2.png"></a>
-   <a href="https://github.com/spencerhiscox/TRUSS-ty-CALC/blob/master/TRUSS-ty-CALC_v1.3.4.py"><img src="WarrenØ_Amalgam.png"></a>
+   <a href="https://github.com/spencerhiscox/TRUSS-ty-CALC/blob/master/TRUSS-ty-CALC_v1.3.4.py"><img src="SSA_deflection_ACT2.png" width="360"></a>
+   <a href="https://github.com/spencerhiscox/TRUSS-ty-CALC/blob/master/TRUSS-ty-CALC_v1.3.4.py"><img src="WarrenØ_Amalgam.png" width="360"></a>
   </td>
  </tr>
  <tr>
@@ -78,7 +78,7 @@ I've always had an insatiable curiosity and a relentless desire to understand th
   </td>
   <td>
    Written: 04/2022
-   <a href="https://github.com/spencerhiscox/LinkedList-InsertionSort-BIT2400/blob/master/List.cpp"><img src="A6B24_InsSrt.png"></a>
+   <a href="https://github.com/spencerhiscox/LinkedList-InsertionSort-BIT2400/blob/master/List.cpp"><img src="A6B24_InsSrt.png" width="360"></a>
   </td>
  </tr>
  <tr>
@@ -147,7 +147,7 @@ I've always had an insatiable curiosity and a relentless desire to understand th
   </td>
   <td>
    Written: 11/2021<br />
-   <a href="https://github.com/spencerhiscox/dates_viewer/blob/master/dates_viewer.py"><img src="dates_viewer_simple_PP-WIP.png" height="560" width="280"></a>
+   <a href="https://github.com/spencerhiscox/dates_viewer/blob/master/dates_viewer.py"><img src="dates_viewer_simple_PP-WIP.png" height="510" width="280"></a>
   </td>
  </tr>
  </table>
