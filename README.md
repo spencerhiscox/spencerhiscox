@@ -99,6 +99,25 @@ I've always had an insatiable curiosity and a relentless desire to understand th
  </tr>
  <tr>
   <td>
+  <a href="https://carleton.ca/engineering-design/"><img src="CarletonUniversity_logo.png" height="23" width="23"></a><a href="https://github.com/spencerhiscox/C_game_y1_assignment_8/blob/master/implementations.c">  <b>CA-VIII: Basic Game Logic / State Variables (C)</b></a><br />
+    <i>Utilized structs and functions to implement a TUI variation on a dice game.</i> 
+    <ul>
+    <li>State Variables</li>
+    <li>Game Logic</li>
+    <li>TUI</li>
+    <li>Dynamic Allocation</li>
+    <li>Recursion</li>
+    <li>Structs</li>
+    <li>Functions</li>
+    </ul>
+  </td>
+  <td>
+   Written: 12/2021
+   <a href="https://github.com/spencerhiscox/C_game_y1_assignment_8/blob/master/implementations.c"><img src="A8B14_DcGm.png"></a>
+  </td>
+ </tr>
+ <tr>
+  <td>
   <a href="https://carleton.ca/engineering-design/"><img src="CarletonUniversity_logo.png" height="23" width="23"></a><a href="https://github.com/spencerhiscox/C_data_vis_y1_assignment_7/blob/master/user_input_and_checks.c">  <b>CA-VII: Structures / Data Visualization (C)</b></a><br />
     <i>Simple program which simulates rolling a pair of die a user-specified amount of times and tracks the amount each roll total comes up. Thesae roll totals are then compiled into a histogram and displayed via ASCII art output in console. <b>ASIDE:</b> The solution makes use of a recursive algorithm I wrote which purges buffer overflow resultant from user-entered text into a numeric format specifier usin scanf(). This was outside the scope of the assignment.</i> 
     <ul>
@@ -111,14 +130,6 @@ I've always had an insatiable curiosity and a relentless desire to understand th
   <td>
    Written: 11/2021<br />
    <a href="https://github.com/spencerhiscox/C_data_vis_y1_assignment_7/blob/master/user_input_and_checks.c"><img src="A7B14_fIOdataVIS.png" height="270" width="270"></a>
-  </td>
- </tr>
- <tr>
-  <td>
-- [CA-VIII: Chance Game / ASCII Art (C, F2021)](https://github.com/spencerhiscox/C_game_y1_assignment_8)
-  </td>
-  <td>
-   
   </td>
  </tr>
  <tr>
