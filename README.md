@@ -63,6 +63,7 @@ I've always had an insatiable curiosity and a relentless desire to understand th
    Written: 03/2023
    <a href="https://github.com/spencerhiscox/TRUSS-ty-CALC/blob/master/TRUSS-ty-CALC_v1.3.4.py"><img src="SSA_deflection_ACT2.png" width="360"></a>
    <a href="https://github.com/spencerhiscox/TRUSS-ty-CALC/blob/master/TRUSS-ty-CALC_v1.3.4.py"><img src="WarrenØ_Amalgam.png" width="360"></a>
+   <a href="https://github.com/spencerhiscox/TRUSS-ty-CALC/blob/master/TRUSS-ty-CALC_v1.3.4.py"><img src="OptiTrs.png" width="360"></a>
   </td>
  </tr>
  <tr>
