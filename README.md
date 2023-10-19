@@ -99,7 +99,6 @@ I've always had an insatiable curiosity and a relentless desire to understand th
  </tr>
  <tr>
   <td>
-- [CA-VII: Data Visualization (C, F2021)](https://github.com/spencerhiscox/C_data_vis_y1_assignment_7)
   <a href="https://carleton.ca/engineering-design/"><img src="CarletonUniversity_logo.png" height="23" width="23"></a><a href="https://github.com/spencerhiscox/C_data_vis_y1_assignment_7/blob/master/user_input_and_checks.c">  <b>CA-VII: Structures / Data Visualization (C)</b></a><br />
     <i>Simple program which simulates rolling a pair of die a user-specified amount of times and tracks the amount each roll total comes up. Thesae roll totals are then compiled into a histogram and displayed via ASCII art output in console. <b>ASIDE:</b> The solution makes use of a recursive algorithm I wrote which purges buffer overflow resultant from user-entered text into a numeric format specifier usin scanf(). This was outside the scope of the assignment.</i> 
     <ul>
