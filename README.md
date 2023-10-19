@@ -83,7 +83,7 @@ I've always had an insatiable curiosity and a relentless desire to understand th
  </tr>
  <tr>
   <td>
-   <a href="https://carleton.ca/engineering-design/"><img src="CarletonUniversity_logo.png" height="23" width="23"></a><a href="https://github.com/spencerhiscox/ClassTemplates-BIT2400/blob/master/Set.h">  <b>CA-V: Class Templates (C++)</b></a><br />
+   <a href="https://carleton.ca/engineering-design/"><img src="CarletonUniversity_logo.png" height="23" width="23"></a><a href="https://github.com/spencerhiscox/ClassTemplates-BIT2400/blob/master/Set.h">  <b>CA-V: Class Templates & Vectors (C++)</b></a><br />
     <i>Ipsum Lorem.</i> 
     <ul>
     <li>TUI</li>
